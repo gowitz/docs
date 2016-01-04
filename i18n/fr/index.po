@@ -20,14 +20,14 @@ msgstr ""
 # df990683e3c04cb697eae82683ce1e17
 #: ../../en/index.rst:2
 msgid "This is the QGEP documentation"
-msgstr ""
+msgstr "Documentation de QGEP"
 
 # 9b62d24ca235474f99902351996e1acb
 #: ../../en/index.rst:4
 msgid ""
 "QGEP is a wastewater management module for QGIS based on SIA 405 and "
 "developed closely to the QGIS application."
-msgstr ""
+msgstr "QGEP est un module de gestion des réseaux d'eaux usées pour QGIS basé sur la norme SIA 405 et étroitement développé pour l'application QGIS"
 
 # f3edd999131144cbad7b738e73d2a432
 #: ../../en/index.rst:7
@@ -35,16 +35,18 @@ msgid ""
 "This document can also be downloaded as a single PDF document: `QGEP.pdf "
 "<./QGEP.pdf>`__ |image|."
 msgstr ""
+"Ce document peut également être téléchargé dans un document PDF unique: `QGEP.pdf "
+"<./QGEP.pdf>`__ |image|."
 
 # 1db8d4075c4243e0a662bbf674a7c232
 #: ../../en/index.rst:16
 msgid "Contents"
-msgstr ""
+msgstr "Contenu"
 
 # 51b5d7c53bd24624a450690bf2a6ab99
 #: ../../en/index.rst:27
 msgid "Indices and tables"
-msgstr ""
+msgstr "Indices et tables"
 
 # d4092778776049f98ab78f2de4905d68
 #: ../../en/index.rst:29
